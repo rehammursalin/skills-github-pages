@@ -2,15 +2,3 @@
 layout: default
 title: Home
 ---
-
-# ✒️ BAF Shaheen College Kurmitola Writers Club
-
-The Writers Club of BAF Shaheen College Kurmitola is a creative haven for young minds who dare to dream, express, and inspire. Founded with the vision of nurturing literary talent and critical thinking, the club serves as a platform for students to explore the power of words—through poetry, prose, journalism, research, and storytelling.
-
-We are a vibrant community of writers, artists, and thinkers from school and college levels, united by a passion for literature and the art of expression. Our activities include publishing seasonal wall magazines, organizing literary competitions, celebrating cultural occasions, and hosting writing workshops and open mic sessions.
-
-Every member of the club is encouraged to embrace their unique voice, engage with social and cultural themes, and contribute to meaningful discourse—both within and beyond campus.
-
-Whether you are a poet in the making, a storyteller at heart, or someone who simply loves the beauty of language—this is your space to shine.
-
-**Write to express. Write to connect. Write to make a difference.**
